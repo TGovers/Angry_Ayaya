@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="AW43k7" name="AngryAyaya" projectType="audioplug" jucerVersion="5.4.3"
+              pluginManufacturer="Studio_Nani" pluginName="AngryAyaya" pluginDesc="AngryAyaya">
+  <MAINGROUP id="uo5EUX" name="AngryAyaya">
+    <GROUP id="{3A6C7130-87E7-ED64-9F7B-A2783595CD4A}" name="Night Animations">
+      <FILE id="UaOc6B" name="N1.png" compile="0" resource="1" file="Night Animations/N1.png"/>
+      <FILE id="PgksMa" name="N2.png" compile="0" resource="1" file="Night Animations/N2.png"/>
+      <FILE id="oFWk2j" name="N3.png" compile="0" resource="1" file="Night Animations/N3.png"/>
+      <FILE id="fhCzDE" name="N4.png" compile="0" resource="1" file="Night Animations/N4.png"/>
+      <FILE id="RR4ZaB" name="N5.png" compile="0" resource="1" file="Night Animations/N5.png"/>
+      <FILE id="JrO3FK" name="N6.png" compile="0" resource="1" file="Night Animations/N6.png"/>
+      <FILE id="LYyPZi" name="N7.png" compile="0" resource="1" file="Night Animations/N7.png"/>
+      <FILE id="e7IWHd" name="N8.png" compile="0" resource="1" file="Night Animations/N8.png"/>
+      <FILE id="NHMLUY" name="N9.png" compile="0" resource="1" file="Night Animations/N9.png"/>
+      <FILE id="J3gcKM" name="N10.png" compile="0" resource="1" file="Night Animations/N10.png"/>
+      <FILE id="faHpfu" name="N11.png" compile="0" resource="1" file="Night Animations/N11.png"/>
+      <FILE id="I0dIoO" name="N12.png" compile="0" resource="1" file="Night Animations/N12.png"/>
+    </GROUP>
+    <GROUP id="{A9E1D73C-ADD4-5F89-9E30-D3BDBABF9F3D}" name="Face Animation">
+      <FILE id="UxegVS" name="F1.png" compile="0" resource="1" file="face animation/Face Animation/F1.png"/>
+      <FILE id="vWJOau" name="F2.png" compile="0" resource="1" file="face animation/Face Animation/F2.png"/>
+      <FILE id="SRNRTd" name="F3.png" compile="0" resource="1" file="face animation/Face Animation/F3.png"/>
+      <FILE id="PF7Wq6" name="F4.png" compile="0" resource="1" file="face animation/Face Animation/F4.png"/>
+      <FILE id="QKwib6" name="F5.png" compile="0" resource="1" file="face animation/Face Animation/F5.png"/>
+      <FILE id="Vk4CB1" name="F6.png" compile="0" resource="1" file="face animation/Face Animation/F6.png"/>
+      <FILE id="HLBozK" name="F7.png" compile="0" resource="1" file="face animation/Face Animation/F7.png"/>
+    </GROUP>
+    <GROUP id="{66DD3537-E015-1083-3809-ECF1CD81A5D5}" name="Animations ">
+      <FILE id="sSJqOQ" name="A1.png" compile="0" resource="1" file="Animations/A1.png"/>
+      <FILE id="AOWcCf" name="A2.png" compile="0" resource="1" file="Animations/A2.png"/>
+      <FILE id="NgkIUc" name="A3.png" compile="0" resource="1" file="Animations/A3.png"/>
+      <FILE id="nT3yFf" name="A4.png" compile="0" resource="1" file="Animations/A4.png"/>
+      <FILE id="XSciRp" name="A5.png" compile="0" resource="1" file="Animations/A5.png"/>
+      <FILE id="OUB4np" name="A6.png" compile="0" resource="1" file="Animations/A6.png"/>
+      <FILE id="VdgVcp" name="A7.png" compile="0" resource="1" file="Animations/A7.png"/>
+      <FILE id="aRjIV2" name="A8.png" compile="0" resource="1" file="Animations/A8.png"/>
+      <FILE id="XL17u2" name="A9.png" compile="0" resource="1" file="Animations/A9.png"/>
+      <FILE id="zP0i0M" name="A10.png" compile="0" resource="1" file="Animations/A10.png"/>
+      <FILE id="nXXHGS" name="A11.png" compile="0" resource="1" file="Animations/A11.png"/>
+      <FILE id="LeFJGS" name="A12.png" compile="0" resource="1" file="Animations/A12.png"/>
+      <FILE id="wE2tWn" name="A13.png" compile="0" resource="1" file="Animations/A13.png"/>
+      <FILE id="A0Y4UG" name="A14.png" compile="0" resource="1" file="Animations/A14.png"/>
+      <FILE id="KCjZm8" name="A15.png" compile="0" resource="1" file="Animations/A15.png"/>
+      <FILE id="wzxxfu" name="A16.png" compile="0" resource="1" file="Animations/A16.png"/>
+      <FILE id="Ui2ugp" name="A17.png" compile="0" resource="1" file="Animations/A17.png"/>
+      <FILE id="UvjcPa" name="A18.png" compile="0" resource="1" file="Animations/A18.png"/>
+      <FILE id="ra5G6w" name="A19.png" compile="0" resource="1" file="Animations/A19.png"/>
+      <FILE id="xj3CId" name="A20.png" compile="0" resource="1" file="Animations/A20.png"/>
+      <FILE id="RFywvS" name="A21.png" compile="0" resource="1" file="Animations/A21.png"/>
+      <FILE id="CxLpqy" name="A22.png" compile="0" resource="1" file="Animations/A22.png"/>
+      <FILE id="ABupMk" name="A23.png" compile="0" resource="1" file="Animations/A23.png"/>
+      <FILE id="yEWNdQ" name="A24.png" compile="0" resource="1" file="Animations/A24.png"/>
+      <FILE id="EHNWpN" name="A25.png" compile="0" resource="1" file="Animations/A25.png"/>
+      <FILE id="o2VJOe" name="A26.png" compile="0" resource="1" file="Animations/A26.png"/>
+      <FILE id="Xq5Sng" name="A27.png" compile="0" resource="1" file="Animations/A27.png"/>
+      <FILE id="gvV7ME" name="A28.png" compile="0" resource="1" file="Animations/A28.png"/>
+      <FILE id="LaXfwr" name="A29.png" compile="0" resource="1" file="Animations/A29.png"/>
+      <FILE id="tk4N6m" name="A30.png" compile="0" resource="1" file="Animations/A30.png"/>
+      <FILE id="H4VN4X" name="A31.png" compile="0" resource="1" file="Animations/A31.png"/>
+      <FILE id="Ct6vEa" name="A32.png" compile="0" resource="1" file="Animations/A32.png"/>
+      <FILE id="P5OgVW" name="A33.png" compile="0" resource="1" file="Animations/A33.png"/>
+      <FILE id="ZZre3Q" name="A34.png" compile="0" resource="1" file="Animations/A34.png"/>
+      <FILE id="TZikpf" name="A35.png" compile="0" resource="1" file="Animations/A35.png"/>
+      <FILE id="TdzqvA" name="A36.png" compile="0" resource="1" file="Animations/A36.png"/>
+      <FILE id="JiBJRY" name="A37.png" compile="0" resource="1" file="Animations/A37.png"/>
+      <FILE id="o4emP9" name="A38.png" compile="0" resource="1" file="Animations/A38.png"/>
+      <FILE id="FILl7l" name="A39.png" compile="0" resource="1" file="Animations/A39.png"/>
+      <FILE id="WkBGRu" name="A40.png" compile="0" resource="1" file="Animations/A40.png"/>
+      <FILE id="TVYIZQ" name="A41.png" compile="0" resource="1" file="Animations/A41.png"/>
+      <FILE id="Y2KDah" name="A42.png" compile="0" resource="1" file="Animations/A42.png"/>
+      <FILE id="jqJqea" name="A43.png" compile="0" resource="1" file="Animations/A43.png"/>
+      <FILE id="XAd04q" name="A44.png" compile="0" resource="1" file="Animations/A44.png"/>
+      <FILE id="Ccn8bd" name="A45.png" compile="0" resource="1" file="Animations/A45.png"/>
+      <FILE id="I7iM6i" name="A46.png" compile="0" resource="1" file="Animations/A46.png"/>
+      <FILE id="azdFJN" name="A47.png" compile="0" resource="1" file="Animations/A47.png"/>
+      <FILE id="LmX196" name="A48.png" compile="0" resource="1" file="Animations/A48.png"/>
+      <FILE id="UBzo87" name="A49.png" compile="0" resource="1" file="Animations/A49.png"/>
+    </GROUP>
+    <GROUP id="{73883369-821C-C58A-C84D-504EAAE32BB3}" name="Resources">
+      <FILE id="XG36R0" name="AyayaBackground.png" compile="0" resource="1"
+            file="Skins/AyayaBackground.png"/>
+    </GROUP>
+    <GROUP id="{A562FD52-A4A1-1186-5B14-39E9C1352B30}" name="Source">
+      <FILE id="KRyGPK" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="ck0qp9" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="QBDbpr" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="jaJNmo" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <VS2017 targetFolder="Builds/VisualStudio2017">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_opengl" path="../../juce"/>
+        <MODULEPATH id="juce_gui_extra" path="../../juce"/>
+        <MODULEPATH id="juce_gui_basics" path="../../juce"/>
+        <MODULEPATH id="juce_graphics" path="../../juce"/>
+        <MODULEPATH id="juce_events" path="../../juce"/>
+        <MODULEPATH id="juce_dsp" path="../../juce"/>
+        <MODULEPATH id="juce_data_structures" path="../../juce"/>
+        <MODULEPATH id="juce_cryptography" path="../../juce"/>
+        <MODULEPATH id="juce_core" path="../../juce"/>
+        <MODULEPATH id="juce_audio_utils" path="../../juce"/>
+        <MODULEPATH id="juce_audio_processors" path="../../juce"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../juce"/>
+        <MODULEPATH id="juce_audio_formats" path="../../juce"/>
+        <MODULEPATH id="juce_audio_devices" path="../../juce"/>
+        <MODULEPATH id="juce_audio_basics" path="../../juce"/>
+      </MODULEPATHS>
+    </VS2017>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_opengl"/>
+        <MODULEPATH id="juce_gui_extra"/>
+        <MODULEPATH id="juce_gui_basics"/>
+        <MODULEPATH id="juce_graphics"/>
+        <MODULEPATH id="juce_events"/>
+        <MODULEPATH id="juce_dsp"/>
+        <MODULEPATH id="juce_data_structures"/>
+        <MODULEPATH id="juce_cryptography"/>
+        <MODULEPATH id="juce_core"/>
+        <MODULEPATH id="juce_audio_utils"/>
+        <MODULEPATH id="juce_audio_processors"/>
+        <MODULEPATH id="juce_audio_plugin_client"/>
+        <MODULEPATH id="juce_audio_formats"/>
+        <MODULEPATH id="juce_audio_devices"/>
+        <MODULEPATH id="juce_audio_basics"/>
+      </MODULEPATHS>
+    </VS2019>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_opengl" path="../../juce"/>
+        <MODULEPATH id="juce_gui_extra" path="../../juce"/>
+        <MODULEPATH id="juce_gui_basics" path="../../juce"/>
+        <MODULEPATH id="juce_graphics" path="../../juce"/>
+        <MODULEPATH id="juce_events" path="../../juce"/>
+        <MODULEPATH id="juce_dsp" path="../../juce"/>
+        <MODULEPATH id="juce_data_structures" path="../../juce"/>
+        <MODULEPATH id="juce_cryptography" path="../../juce"/>
+        <MODULEPATH id="juce_core" path="../../juce"/>
+        <MODULEPATH id="juce_audio_utils" path="../../juce"/>
+        <MODULEPATH id="juce_audio_processors" path="../../juce"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../juce"/>
+        <MODULEPATH id="juce_audio_formats" path="../../juce"/>
+        <MODULEPATH id="juce_audio_devices" path="../../juce"/>
+        <MODULEPATH id="juce_audio_basics" path="../../juce"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+  <JUCEOPTIONS JUCE_VST3_CAN_REPLACE_VST2="0" JUCE_STRICT_REFCOUNTEDPOINTER="1"
+               JUCE_PLUGINHOST_VST3="1"/>
+</JUCERPROJECT>
